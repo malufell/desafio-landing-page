@@ -11,7 +11,7 @@ No ar: https://husky-lovers.netlify.app/
 
 ### :computer: Tecnologias:
 
-Projeto implementado com React + react router dom + styled components!
+Projeto implementado com React + styled components!
 
 ---
 
